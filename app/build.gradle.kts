@@ -58,4 +58,15 @@ dependencies {
     //lottianimation
     implementation ("com.airbnb.android:lottie:4.1.0")
 
+    //viewpager
+     implementation ("androidx.viewpager2:viewpager2:1.0.0")
+//    implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1")
+
+    //onbording
+  //  implementation ("com.ramotion.paperonboarding:paper-onboarding:1.1.3'")
+
+   implementation ("com.google.android.material:material:1.3.0")
+
 }
+
+
